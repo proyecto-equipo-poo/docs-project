@@ -48,11 +48,16 @@ Documentar todo el proceso de desarrollo, implementación y publicación del pro
 
 Agregar aquí:
 
-- Capturas del sitio web
-- Capturas de ejecución Java
-- Capturas de GitHub Pages
-- Capturas de commits y push
-- Capturas de repositorios
+- <img width="1856" height="973" alt="image" src="https://github.com/user-attachments/assets/280183d3-56a5-4821-9096-7f4d3bfaa500" />
+
+- <img width="1367" height="978" alt="image" src="https://github.com/user-attachments/assets/bbdc9cfa-a982-477a-a6db-3d43b8659283" />
+
+
+- <img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/dce3f846-babc-4582-99b2-9098fb77965e" />
+
+- <img width="1876" height="656" alt="image" src="https://github.com/user-attachments/assets/6313408c-02c1-49f4-9a31-6231b5ae3d38" />
+
+
 
 ---
 
