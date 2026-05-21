@@ -73,10 +73,10 @@ https://github.com/proyecto-equipo-poo
 ## Repositorios
 
 ### poo-project
-https://github.com/proyecto-equipo-poo/poo-project
+[https://github.com/proyecto-equipo-poo/poo-project](https://github.com/proyecto-equipo-poo/poo-project)
 
 ### functional-project
-https://github.com/proyecto-equipo-poo/functional-project
+[https://github.com/proyecto-equipo-poo/functional-project](https://github.com/proyecto-equipo-poo/funcional-project)
 
 ### docs-project
-https://github.com/proyecto-equipo-poo/docs-project
+[https://github.com/proyecto-equipo-poo/docs-project](https://github.com/proyecto-equipo-poo/docs-project)
